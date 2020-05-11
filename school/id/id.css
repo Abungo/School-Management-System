@@ -1,0 +1,41 @@
+.card{
+	padding:0;
+	border:1px solid red;
+	border-radius:10px;
+	width:3.3in;
+	height:2.1in;
+}
+.head{
+	padding-top:10px;
+	padding-left:10px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+	margin-top:0px;
+	background:grey;
+	height:0.6in;
+
+}
+.logo{
+margin:0;
+padding:0;
+}
+.span{
+position:relative;
+top: -43px;
+left: 55px;
+}
+
+#hd{
+font-size:18px;
+}
+#bosem{
+font-size:14px;
+}
+.details{
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-size:16px;
+position:relative;
+top:-103px;
+left:85px;
+}
