@@ -1,1 +1,1 @@
-header("Location:school/index.php");
+header("Location:/school/index.php");
